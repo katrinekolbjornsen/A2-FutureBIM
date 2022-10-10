@@ -22,5 +22,5 @@ Added a text that shows in the beginning, explaining that you have to choose a f
 
 
 
-To optimize the solution, we would get the dimensions of all the structural parts made from concrete, and summized these to get the exact volume of concrete per floor and in the building as a total. 
+To optimize the solution, we would get the dimensions of all the structural parts made from concrete, and summarize these to get the exact volume of concrete per floor and in the building as a total. 
 
